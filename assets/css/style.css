@@ -1,6 +1,7 @@
-input {
+#start-button {
     background: grey;
     color: white;
     border-radius: 10px;
     padding: 5px;
+    width: 60px;
 };
